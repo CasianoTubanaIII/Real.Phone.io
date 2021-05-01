@@ -1,0 +1,8 @@
+<img src="images/logo.png">
+<img src="images/mobile.png" class="mobile">
+<img src="images/camera.png"> 
+<img src="images/processor.png">
+<img src="images/display.png">
+<img src="images/battery.png">
+<img src="images/arrow.png" id="upBtn">
+<img src="images/arrow.png" id="downBtn">
